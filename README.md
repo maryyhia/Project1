@@ -49,4 +49,4 @@ Our first module in DSI covers:
 Taking in account that some of the Ivy League states requires their students to take the SAT, there is still a positive effect from the new change in format which resulted in an increase in participation rates across the years 2017, 2018, and 2019. 
 
 ## Conclusions/ Recommendations
-
+Further investigations into why there was stagnation or a drop in participation in some states would not only steer the direction of the interests of the College Board, but could also identify needs or changes with the SAT if the problem is consistent with other states not within the Ivy League.
